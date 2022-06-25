@@ -16,3 +16,4 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 - Using v2ray-core(xray-core) to build a network restriction system.
 -----------
 
+GPG Key : [AF1411D5033592A7DBF9BB479174976F1CB2FDD7](https://keys.openpgp.org/vks/v1/by-fingerprint/AF1411D5033592A7DBF9BB479174976F1CB2FDD7)

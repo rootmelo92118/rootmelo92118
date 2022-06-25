@@ -21,11 +21,11 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 
 本名是隱私，但是你可以叫我北山、硝子、北山硝子或其他的衍生名詞。
 
-我喜歡開發一些小工具或是寫一些腳本。
+喜歡開發一些小工具或是腳本。
 
-我會說中文跟英文，雖然我英文不是非常厲害，但我可以使用它與其他人交流。~~文法錯誤請多多包涵~~
+會說中文跟英文，英文沒有說非常厲害，但是能夠與他人交流。~~文法錯誤請多多包涵~~
 
-雖然我使用繁體中文，但是不需要把簡體中文翻成繁體中文給我看，我看得懂簡體。
+雖然我使用繁體中文，但我看得懂簡體，不需要把簡體中文翻成繁體中文給我看。
 
 ### 維護者
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) 的維護者。

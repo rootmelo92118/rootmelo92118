@@ -13,7 +13,7 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 - One of the mantainer of [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) .
 
 ### Goal
-- Using v2ray-core(xray-core) to build a network restriction system.
+- Using v2ray-core(xray-core) to build a network filtering system.
 -----------
 
 北山硝子

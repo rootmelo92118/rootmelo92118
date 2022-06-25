@@ -23,7 +23,7 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 
 我喜歡開發一些小工具或是寫一些腳本。
 
-我會說中文跟英文，雖然我英文不是非常厲害，但我可以使用它與其他人交流。
+我會說中文跟英文，雖然我英文不是非常厲害，但我可以使用它與其他人交流。~~文法錯誤請多多包涵
 
 雖然我使用繁體中文，但是不需要把簡體中文翻繁體中文給我看，我看得懂簡體。
 

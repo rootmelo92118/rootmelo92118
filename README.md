@@ -25,7 +25,7 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 
 會說中文跟英文，英文沒有說非常厲害，但是能夠與他人交流。~~文法錯誤請多多包涵~~
 
-雖然我使用繁體中文，但我看得懂簡體，不用再把簡體中文翻成繁體中文給我看了。~~顯得我很像傻逼~~
+雖然我使用繁體中文，但我看得懂簡體字，不用再把簡體翻成繁體給我看了。~~顯得我很像傻逼~~
 
 ### 維護者
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) 的維護者。

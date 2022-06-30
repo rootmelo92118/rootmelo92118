@@ -39,3 +39,5 @@ GPG Key : [AF1411D5033592A7DBF9BB479174976F1CB2FDD7](https://keys.openpgp.org/vk
 Email Address : 03-catfish-subtle@icloud.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=rootmelo92118">
+<img class="animated fadeInDown"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootmelo92118&layout=compact">

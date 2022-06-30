@@ -41,4 +41,4 @@ Email Address : 03-catfish-subtle@icloud.com
 <img src="https://github-readme-stats.vercel.app/api?username=rootmelo92118">
 <img class="animated fadeInDown"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootmelo92118&layout=compact">
-I am good at using Python to write somothing
+I am good at using Python to write somothing, not C.

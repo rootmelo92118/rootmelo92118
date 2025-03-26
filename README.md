@@ -12,8 +12,6 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 ### Collaborator
 - One of the mantainer of [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) .
 
-### Goal
-- Using v2ray-core(xray-core) to build a network filtering system.
 -----------
 
 北山硝子
@@ -30,8 +28,6 @@ I usually use traditional Chinese to write the message, but I can read simplifie
 ### 維護者
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) 的維護者。
 
-### 目標
-- 使用v2ray-core(xray-core)建構一個網路過濾器。
 -----------
 
 GPG Key : [AF1411D5033592A7DBF9BB479174976F1CB2FDD7](https://keys.openpgp.org/vks/v1/by-fingerprint/AF1411D5033592A7DBF9BB479174976F1CB2FDD7)
